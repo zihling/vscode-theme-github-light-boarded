@@ -32,3 +32,9 @@ These global settings may give you a better experience.
 ## License
 
 [BSD-2-Clause](LICENSE)
+
+## TODO
+
+* Make annotation green
+* Modify color
+* Add more syntax highlights for Python
