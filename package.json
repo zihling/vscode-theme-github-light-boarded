@@ -1,16 +1,16 @@
 {
-  "name": "vscode-theme-github-light",
-  "displayName": "Github Light Theme",
-  "description": "Try this theme if others don't meet your needs.",
-  "version": "7.14.2",
-  "publisher": "Hyzeta",
+  "name": "vscode-theme-github-light-boarded",
+  "displayName": "Github Light Boarded Theme",
+  "description": "A theme based on Github Light Theme, with clearer boarders.",
+  "version": "1.0.0",
+  "publisher": "ZL",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yunlingz/vscode-theme-github-light/issues"
+    "url": "https://github.com/zihling/vscode-theme-github-light-boarded/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yunlingz/vscode-theme-github-light.git"
+    "url": "https://github.com/zihling/vscode-theme-github-light-boarded.git"
   },
   "icon": "icon.png",
   "engines": {
@@ -22,12 +22,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Github Light Theme",
+        "label": "Github Light Boarded Theme",
         "uiTheme": "vs",
         "path": "./themes/Github-Light-Theme-color-theme.json"
       },
       {
-        "label": "Github Light Theme - Gray",
+        "label": "Github Light Boarded Theme - Gray",
         "uiTheme": "vs",
         "path": "./themes/Github-Light-Theme-Gray-color-theme.json"
       }
