@@ -5,8 +5,8 @@ Try this light theme if others don't meet your needs.
 [![license:BSD-2-Clause](https://img.shields.io/badge/license-BSD--2--Clause-2f363d)](LICENSE)
 [![](https://img.shields.io/github/stars/yunlingz/vscode-theme-github-light?style=social)](https://github.com/yunlingz/vscode-theme-github-light/stargazers)
 
-* [GitHub repository](https://github.com/yunlingz/vscode-theme-github-light.git)
-* [Visual Studio Code marketplace](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
+* [GitHub repository](https://github.com/zihling/vscode-theme-github-light-boarded.git)
+* [Visual Studio Code marketplace](https://marketplace.visualstudio.com/items?itemName=ZL.vscode-theme-github-light-boarded)
 
 ## Preview
 
